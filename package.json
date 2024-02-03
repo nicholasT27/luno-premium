@@ -1,0 +1,16 @@
+{
+  "name": "luno-premium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "node-binance-api": "^0.13.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
